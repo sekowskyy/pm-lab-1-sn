@@ -13,26 +13,26 @@ Grupa studencka:            WEL18DE1S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  dioda zaczyna świecic
+Odpowiedź:  dioda zaczyna świecić
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  układ działa podobnie
+Odpowiedź:  
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  tak
+Odpowiedź:  
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  większa częstość migotania
+Odpowiedź:  
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  Nagłe zmiany świateł mogą być powodem gwałtownego hamowania. 
+Odpowiedź:  
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  Tak jest możliwe
+Odpowiedź:  
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
